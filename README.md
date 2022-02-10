@@ -5,7 +5,7 @@
 - Vipkid: Java and Springboot/Spring Cloud/Micro service
 - Douban: Developer and platform developer
 
-And I love coding. My main coding language is Python but any language is OK.
+I love coding. My main coding language is Python but any language is OK.
 
 Contact me: x@guojing.me
 
