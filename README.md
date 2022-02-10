@@ -9,4 +9,4 @@ I love coding. My main coding language is Python but any language is OK.
 
 Contact me: x@guojing.me
 
-[![GuoJing's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoJing&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![GuoJing's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoJing&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
