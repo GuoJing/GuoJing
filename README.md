@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🔭 I'm GuoJing and current working at BLF as a AI Platform Engineer, I was working at:
+🔭 I'm GuoJing, Code monkey.
 
+- Web3: Game Company
+- BLF: as a AI Platform Engineer
 - Vipkid: Java and Springboot/Spring Cloud/Micro service
 - Douban: Developer and platform developer
-
-I love coding. My main coding language is Python but any language is OK.
 
 Contact me: x@guojing.me
 
